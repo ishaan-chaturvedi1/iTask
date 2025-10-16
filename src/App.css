@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+::-webkit-scrollbar-track {
+    background-color: #ede9fe;
+}
